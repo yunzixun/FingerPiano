@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	01EEF9D2113C9ED30069CCA0 /* FingerPiano说明文档.rtf */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1342, 459}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {1342, 459}}";
+		};
+	};
+	01EEFB2F113CDC670069CCA0 /* Keybordview.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1562, 6384}}";
+			sepNavSelRange = "{3816, 0}";
+			sepNavVisRange = "{3582, 794}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FingerPiano1.0 */ = {
+		activeExec = 0;
+		executables = (
+			A99BFA06113E0B5F0027032A /* FingerPiano1.0 */,
+		);
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1328, 1869}}";
+			sepNavSelRange = "{636, 0}";
+			sepNavVisRange = "{196, 611}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A99BFA06113E0B5F0027032A /* FingerPiano1.0 */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FingerPiano1.0 */;
+		codeSenseManager = A99BFA1E113E0B720027032A /* Code sense */;
+		executables = (
+			A99BFA06113E0B5F0027032A /* FingerPiano1.0 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1150,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289278815;
+			PBXWorkspaceStateSaveDate = 289278815;
+		};
+		perUserProjectItems = {
+			A99BFA2B113E0BC50027032A /* PBXTextBookmark */ = A99BFA2B113E0BC50027032A /* PBXTextBookmark */;
+			A99BFA2C113E0BC50027032A /* PBXTextBookmark */ = A99BFA2C113E0BC50027032A /* PBXTextBookmark */;
+			A99BFA2D113E0BC50027032A /* XCBuildMessageTextBookmark */ = A99BFA2D113E0BC50027032A /* XCBuildMessageTextBookmark */;
+			A99BFA3F113E0BF00027032A /* PBXTextBookmark */ = A99BFA3F113E0BF00027032A /* PBXTextBookmark */;
+		};
+		sourceControlManager = A99BFA1D113E0B720027032A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A99BFA06113E0B5F0027032A /* FingerPiano1.0 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FingerPiano1.0;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A99BFA1D113E0B720027032A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A99BFA1E113E0B720027032A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A99BFA2B113E0BC50027032A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEF9D2113C9ED30069CCA0 /* FingerPiano说明文档.rtf */;
+		name = "FingerPiano说明文档.rtf: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 338;
+		vrLoc = 0;
+	};
+	A99BFA2C113E0BC50027032A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 21";
+		rLen = 0;
+		rLoc = 636;
+		rType = 0;
+		vrLen = 611;
+		vrLoc = 196;
+	};
+	A99BFA2D113E0BC50027032A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Pass-by-value argument in message expression is undefined";
+		fRef = 01EEFB2F113CDC670069CCA0 /* Keybordview.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 164;
+		rType = 1;
+	};
+	A99BFA3F113E0BF00027032A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEFB2F113CDC670069CCA0 /* Keybordview.m */;
+		name = "Keybordview.m: 164";
+		rLen = 0;
+		rLoc = 3816;
+		rType = 0;
+		vrLen = 794;
+		vrLoc = 3582;
+	};
+}

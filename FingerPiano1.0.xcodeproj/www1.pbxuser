@@ -1,0 +1,538 @@
+// !$*UTF8*$!
+{
+	0155EE63113DFD8300E400F0 /* KeyDownD5.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 73}, {750, 705}}";
+		};
+	};
+	0155EE6E113DFD8300E400F0 /* KeyUpA5.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 73}, {750, 705}}";
+		};
+	};
+	0155EE8C113E111600E400F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 19";
+		rLen = 0;
+		rLoc = 529;
+		rType = 0;
+		vrLen = 873;
+		vrLoc = 143;
+	};
+	0155EE8D113E111600E400F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEFB2F113CDC670069CCA0 /* Keybordview.m */;
+		name = "Keybordview.m: 164";
+		rLen = 0;
+		rLoc = 3816;
+		rType = 0;
+		vrLen = 1135;
+		vrLoc = 3430;
+	};
+	0155EE8E113E111600E400F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEF9D2113C9ED30069CCA0 /* FingerPiano说明文档.rtf */;
+		name = "FingerPiano说明文档.rtf: 11";
+		rLen = 0;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 338;
+		vrLoc = 0;
+	};
+	0155EE8F113E111600E400F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEF9D2113C9ED30069CCA0 /* FingerPiano说明文档.rtf */;
+		name = "FingerPiano说明文档.rtf: 11";
+		rLen = 0;
+		rLoc = 371;
+		rType = 0;
+		vrLen = 390;
+		vrLoc = 0;
+	};
+	01EEF90B113C9A0E0069CCA0 /* FingerPiano1.0 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FingerPiano1.0;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fctrl = 1;
+			$fioff = 1;
+			$fiseg = 1;
+			$fooff = 1;
+			$fop = 1;
+			$foseg = 1;
+			$fs = 1;
+			$fstat = 1;
+			$ftag = 1;
+			$gs = 1;
+			$mxcsr = 1;
+			$ss = 1;
+		};
+	};
+	01EEF91C113C9A270069CCA0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	01EEF91D113C9A270069CCA0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	01EEF9D2113C9ED30069CCA0 /* FingerPiano说明文档.rtf */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1031, 401}}";
+			sepNavSelRange = "{371, 0}";
+			sepNavVisRect = "{{0, 0}, {1031, 401}}";
+		};
+	};
+	01EEF9D4113C9EDE0069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	01EEF9F7113C9F960069CCA0 /* PianoKey.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 394}}";
+			sepNavSelRange = "{537, 0}";
+			sepNavVisRange = "{0, 691}";
+		};
+	};
+	01EEF9F8113C9F960069CCA0 /* PianoKey.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1118}}";
+			sepNavSelRange = "{1654, 0}";
+			sepNavVisRange = "{1348, 337}";
+			sepNavWindowFrame = "{{15, 70}, {750, 708}}";
+		};
+	};
+	01EEFAE2113CD9810069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEFAE3113CD9810069CCA0 /* UITouch.h */;
+		name = "UITouch.h: 51";
+		rLen = 56;
+		rLoc = 1751;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 220;
+	};
+	01EEFAE3113CD9810069CCA0 /* UITouch.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITouch.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITouch.h;
+		sourceTree = "<absolute>";
+	};
+	01EEFAE4113CD9810069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEFAE5113CD9810069CCA0 /* UIViewController.h */;
+		name = "UIViewController.h: 83";
+		rLen = 0;
+		rLoc = 3067;
+		rType = 0;
+		vrLen = 2625;
+		vrLoc = 2089;
+	};
+	01EEFAE5113CD9810069CCA0 /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	01EEFB2E113CDC670069CCA0 /* Keybordview.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 663}}";
+			sepNavSelRange = "{436, 0}";
+			sepNavVisRange = "{0, 442}";
+		};
+	};
+	01EEFB2F113CDC670069CCA0 /* Keybordview.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1391, 3861}}";
+			sepNavSelRange = "{3816, 0}";
+			sepNavVisRange = "{3430, 1135}";
+			sepNavWindowFrame = "{{15, 70}, {750, 708}}";
+		};
+	};
+	01EEFB42113CDE440069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A40DB2D0840083E9F9 /* MainView.h */;
+		name = "MainView.h: 19";
+		rLen = 0;
+		rLoc = 240;
+		rType = 0;
+		vrLen = 240;
+		vrLoc = 0;
+	};
+	01EEFBDF113D07AD0069CCA0 /* PianoKey.m:56 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 01EEF9F8113C9F960069CCA0 /* PianoKey.m */;
+		functionName = "-KeyPressDown";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 56;
+		location = FingerPiano1.0;
+		modificationTime = 289212452.821273;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	01EEFC7B113D45D10069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* FingerPiano1_0_Prefix.pch */;
+		name = "FingerPiano1_0_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	01EEFC91113D47690069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A20DB2D0840083E9F9 /* FlipsideView.h */;
+		name = "FlipsideView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	01EEFC92113D47690069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A30DB2D0840083E9F9 /* FlipsideView.m */;
+		name = "FlipsideView.m: 24";
+		rLen = 0;
+		rLoc = 387;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 22;
+	};
+	01EEFC93113D47690069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	01EEFC9A113D49AF0069CCA0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* FingerPiano1_0-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/www1/Documents/FingerPiano1.0/FingerPiano1_0-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	01EEFCB5113D4C050069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEF9F7113C9F960069CCA0 /* PianoKey.h */;
+		name = "PianoKey.h: 22";
+		rLen = 0;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 691;
+		vrLoc = 0;
+	};
+	01EEFCB6113D4C050069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEF9F8113C9F960069CCA0 /* PianoKey.m */;
+		name = "PianoKey.m: 59";
+		rLen = 0;
+		rLoc = 1363;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 821;
+	};
+	01EEFCBB113D4C050069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FingerPiano1_0AppDelegate.h */;
+		name = "FingerPiano1_0AppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 472;
+		vrLoc = 0;
+	};
+	01EEFCCB113D4D580069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 10";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 297;
+		vrLoc = 0;
+	};
+	01EEFCCC113D4D580069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 14";
+		rLen = 0;
+		rLoc = 246;
+		rType = 0;
+		vrLen = 625;
+		vrLoc = 183;
+	};
+	01EEFCCD113D4D580069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FingerPiano1_0AppDelegate.m */;
+		name = "FingerPiano1_0AppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 768;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 54;
+	};
+	01EEFCCE113D4D580069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A50DB2D0840083E9F9 /* MainView.m */;
+		name = "MainView.m: 34";
+		rLen = 0;
+		rLoc = 642;
+		rType = 0;
+		vrLen = 591;
+		vrLoc = 208;
+	};
+	01EEFD86113D68F80069CCA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01EEFB2E113CDC670069CCA0 /* Keybordview.h */;
+		name = "Keybordview.h: 26";
+		rLen = 0;
+		rLoc = 436;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	01EEFD8B113D69C60069CCA0 /* BlackKeyUp.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 68}, {750, 708}}";
+		};
+	};
+	01EEFD92113D6A270069CCA0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 01EEFD8A113D69C60069CCA0 /* BlackKeyDown.png */;
+	};
+	01EEFD93113D6A270069CCA0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 01EEFD8B113D69C60069CCA0 /* BlackKeyUp.png */;
+	};
+	1D3623240D0F684500981E51 /* FingerPiano1_0AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 392}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRange = "{0, 472}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FingerPiano1_0AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 481}}";
+			sepNavSelRange = "{768, 0}";
+			sepNavVisRange = "{54, 825}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FingerPiano1.0 */ = {
+		activeExec = 0;
+		executables = (
+			01EEF90B113C9A0E0069CCA0 /* FingerPiano1.0 */,
+		);
+	};
+	289233A20DB2D0840083E9F9 /* FlipsideView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 394}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	289233A30DB2D0840083E9F9 /* FlipsideView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 442}}";
+			sepNavSelRange = "{387, 0}";
+			sepNavVisRange = "{22, 418}";
+		};
+	};
+	289233A40DB2D0840083E9F9 /* MainView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 394}}";
+			sepNavSelRange = "{240, 0}";
+			sepNavVisRange = "{0, 240}";
+			sepNavWindowFrame = "{{15, 70}, {750, 708}}";
+		};
+	};
+	289233A50DB2D0840083E9F9 /* MainView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 572}}";
+			sepNavSelRange = "{642, 0}";
+			sepNavVisRange = "{208, 591}";
+		};
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 394}}";
+			sepNavSelRange = "{179, 0}";
+			sepNavVisRange = "{0, 297}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1118}}";
+			sepNavSelRange = "{529, 0}";
+			sepNavVisRange = "{143, 873}";
+			sepNavWindowFrame = "{{15, 70}, {750, 708}}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 394}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 524}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 650}}";
+			sepNavSelRange = "{246, 0}";
+			sepNavVisRange = "{183, 625}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 01EEF90B113C9A0E0069CCA0 /* FingerPiano1.0 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FingerPiano1.0 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FingerPiano1.0 */,
+		);
+		breakpoints = (
+			01EEFBDF113D07AD0069CCA0 /* PianoKey.m:56 */,
+		);
+		codeSenseManager = 01EEF91D113C9A270069CCA0 /* Code sense */;
+		executables = (
+			01EEF90B113C9A0E0069CCA0 /* FingerPiano1.0 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289280064;
+			PBXWorkspaceStateSaveDate = 289280064;
+		};
+		perUserProjectItems = {
+			0155EE8C113E111600E400F0 /* PBXTextBookmark */ = 0155EE8C113E111600E400F0 /* PBXTextBookmark */;
+			0155EE8D113E111600E400F0 /* PBXTextBookmark */ = 0155EE8D113E111600E400F0 /* PBXTextBookmark */;
+			0155EE8E113E111600E400F0 /* PBXTextBookmark */ = 0155EE8E113E111600E400F0 /* PBXTextBookmark */;
+			0155EE8F113E111600E400F0 /* PBXTextBookmark */ = 0155EE8F113E111600E400F0 /* PBXTextBookmark */;
+			01EEF9D4113C9EDE0069CCA0 /* PBXTextBookmark */ = 01EEF9D4113C9EDE0069CCA0 /* PBXTextBookmark */;
+			01EEFAE2113CD9810069CCA0 /* PBXTextBookmark */ = 01EEFAE2113CD9810069CCA0 /* PBXTextBookmark */;
+			01EEFAE4113CD9810069CCA0 /* PBXTextBookmark */ = 01EEFAE4113CD9810069CCA0 /* PBXTextBookmark */;
+			01EEFB42113CDE440069CCA0 /* PBXTextBookmark */ = 01EEFB42113CDE440069CCA0 /* PBXTextBookmark */;
+			01EEFC7B113D45D10069CCA0 /* PBXTextBookmark */ = 01EEFC7B113D45D10069CCA0 /* PBXTextBookmark */;
+			01EEFC91113D47690069CCA0 /* PBXTextBookmark */ = 01EEFC91113D47690069CCA0 /* PBXTextBookmark */;
+			01EEFC92113D47690069CCA0 /* PBXTextBookmark */ = 01EEFC92113D47690069CCA0 /* PBXTextBookmark */;
+			01EEFC93113D47690069CCA0 /* PBXTextBookmark */ = 01EEFC93113D47690069CCA0 /* PBXTextBookmark */;
+			01EEFC9A113D49AF0069CCA0 /* PlistBookmark */ = 01EEFC9A113D49AF0069CCA0 /* PlistBookmark */;
+			01EEFCB5113D4C050069CCA0 /* PBXTextBookmark */ = 01EEFCB5113D4C050069CCA0 /* PBXTextBookmark */;
+			01EEFCB6113D4C050069CCA0 /* PBXTextBookmark */ = 01EEFCB6113D4C050069CCA0 /* PBXTextBookmark */;
+			01EEFCBB113D4C050069CCA0 /* PBXTextBookmark */ = 01EEFCBB113D4C050069CCA0 /* PBXTextBookmark */;
+			01EEFCCB113D4D580069CCA0 /* PBXTextBookmark */ = 01EEFCCB113D4D580069CCA0 /* PBXTextBookmark */;
+			01EEFCCC113D4D580069CCA0 /* PBXTextBookmark */ = 01EEFCCC113D4D580069CCA0 /* PBXTextBookmark */;
+			01EEFCCD113D4D580069CCA0 /* PBXTextBookmark */ = 01EEFCCD113D4D580069CCA0 /* PBXTextBookmark */;
+			01EEFCCE113D4D580069CCA0 /* PBXTextBookmark */ = 01EEFCCE113D4D580069CCA0 /* PBXTextBookmark */;
+			01EEFD86113D68F80069CCA0 /* PBXTextBookmark */ = 01EEFD86113D68F80069CCA0 /* PBXTextBookmark */;
+			01EEFD92113D6A270069CCA0 /* PBXBookmark */ = 01EEFD92113D6A270069CCA0 /* PBXBookmark */;
+			01EEFD93113D6A270069CCA0 /* PBXBookmark */ = 01EEFD93113D6A270069CCA0 /* PBXBookmark */;
+		};
+		sourceControlManager = 01EEF91C113C9A270069CCA0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 234}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{0, 357}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* FingerPiano1_0_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 371}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 334}";
+		};
+	};
+}

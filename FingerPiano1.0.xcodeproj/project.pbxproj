@@ -1,0 +1,451 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0155EE70113DFD8300E400F0 /* KeyDownC5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE62113DFD8300E400F0 /* KeyDownC5.png */; };
+		0155EE71113DFD8300E400F0 /* KeyDownD5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE63113DFD8300E400F0 /* KeyDownD5.png */; };
+		0155EE72113DFD8300E400F0 /* KeyDownE5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE64113DFD8300E400F0 /* KeyDownE5.png */; };
+		0155EE73113DFD8300E400F0 /* KeyDownF5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE65113DFD8300E400F0 /* KeyDownF5.png */; };
+		0155EE74113DFD8300E400F0 /* KeyDownG5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE66113DFD8300E400F0 /* KeyDownG5.png */; };
+		0155EE75113DFD8300E400F0 /* KeyDownA5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE67113DFD8300E400F0 /* KeyDownA5.png */; };
+		0155EE76113DFD8300E400F0 /* KeyDownB5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE68113DFD8300E400F0 /* KeyDownB5.png */; };
+		0155EE77113DFD8300E400F0 /* KeyUpC5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE69113DFD8300E400F0 /* KeyUpC5.png */; };
+		0155EE78113DFD8300E400F0 /* KeyUpD5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE6A113DFD8300E400F0 /* KeyUpD5.png */; };
+		0155EE79113DFD8300E400F0 /* KeyUpE5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE6B113DFD8300E400F0 /* KeyUpE5.png */; };
+		0155EE7A113DFD8300E400F0 /* KeyUpF5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE6C113DFD8300E400F0 /* KeyUpF5.png */; };
+		0155EE7B113DFD8300E400F0 /* KeyUpG5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE6D113DFD8300E400F0 /* KeyUpG5.png */; };
+		0155EE7C113DFD8300E400F0 /* KeyUpA5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE6E113DFD8300E400F0 /* KeyUpA5.png */; };
+		0155EE7D113DFD8300E400F0 /* KeyUpB5.png in Resources */ = {isa = PBXBuildFile; fileRef = 0155EE6F113DFD8300E400F0 /* KeyUpB5.png */; };
+		01EEF9D3113C9ED30069CCA0 /* FingerPiano说明文档.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 01EEF9D2113C9ED30069CCA0 /* FingerPiano说明文档.rtf */; };
+		01EEF9F9113C9F960069CCA0 /* PianoKey.m in Sources */ = {isa = PBXBuildFile; fileRef = 01EEF9F8113C9F960069CCA0 /* PianoKey.m */; };
+		01EEF9FC113CA0280069CCA0 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 01EEF9FB113CA0280069CCA0 /* AVFoundation.framework */; };
+		01EEFA11113CA7320069CCA0 /* A5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA04113CA7320069CCA0 /* A5.wav */; };
+		01EEFA12113CA7320069CCA0 /* B5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA05113CA7320069CCA0 /* B5.wav */; };
+		01EEFA13113CA7320069CCA0 /* Bb5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA06113CA7320069CCA0 /* Bb5.wav */; };
+		01EEFA14113CA7320069CCA0 /* Cb5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA07113CA7320069CCA0 /* Cb5.wav */; };
+		01EEFA15113CA7320069CCA0 /* C5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA08113CA7320069CCA0 /* C5.wav */; };
+		01EEFA16113CA7320069CCA0 /* C6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA09113CA7320069CCA0 /* C6.wav */; };
+		01EEFA17113CA7320069CCA0 /* Db5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA0A113CA7320069CCA0 /* Db5.wav */; };
+		01EEFA18113CA7320069CCA0 /* D5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA0B113CA7320069CCA0 /* D5.wav */; };
+		01EEFA19113CA7320069CCA0 /* E5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA0C113CA7320069CCA0 /* E5.wav */; };
+		01EEFA1A113CA7320069CCA0 /* Fb5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA0D113CA7320069CCA0 /* Fb5.wav */; };
+		01EEFA1B113CA7320069CCA0 /* F5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA0E113CA7320069CCA0 /* F5.wav */; };
+		01EEFA1C113CA7320069CCA0 /* Gb5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA0F113CA7320069CCA0 /* Gb5.wav */; };
+		01EEFA1D113CA7320069CCA0 /* G5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA10113CA7320069CCA0 /* G5.wav */; };
+		01EEFA4D113CAD0E0069CCA0 /* test.wav in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFA4C113CAD0E0069CCA0 /* test.wav */; };
+		01EEFB30113CDC670069CCA0 /* Keybordview.m in Sources */ = {isa = PBXBuildFile; fileRef = 01EEFB2F113CDC670069CCA0 /* Keybordview.m */; };
+		01EEFD8C113D69C60069CCA0 /* BlackKeyDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFD8A113D69C60069CCA0 /* BlackKeyDown.png */; };
+		01EEFD8D113D69C60069CCA0 /* BlackKeyUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 01EEFD8B113D69C60069CCA0 /* BlackKeyUp.png */; };
+		1D3623260D0F684500981E51 /* FingerPiano1_0AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* FingerPiano1_0AppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		280E754D0DD40C5E005A515E /* FlipsideView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 280E754A0DD40C5E005A515E /* FlipsideView.xib */; };
+		280E754E0DD40C5E005A515E /* MainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 280E754B0DD40C5E005A515E /* MainView.xib */; };
+		280E754F0DD40C5E005A515E /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 280E754C0DD40C5E005A515E /* MainWindow.xib */; };
+		288765590DF743DE002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765580DF743DE002DB57D /* CoreGraphics.framework */; };
+		289233A60DB2D0840083E9F9 /* FlipsideView.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A30DB2D0840083E9F9 /* FlipsideView.m */; };
+		289233A70DB2D0840083E9F9 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A50DB2D0840083E9F9 /* MainView.m */; };
+		289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */; };
+		289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0155EE62113DFD8300E400F0 /* KeyDownC5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyDownC5.png; sourceTree = "<group>"; };
+		0155EE63113DFD8300E400F0 /* KeyDownD5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyDownD5.png; sourceTree = "<group>"; };
+		0155EE64113DFD8300E400F0 /* KeyDownE5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyDownE5.png; sourceTree = "<group>"; };
+		0155EE65113DFD8300E400F0 /* KeyDownF5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyDownF5.png; sourceTree = "<group>"; };
+		0155EE66113DFD8300E400F0 /* KeyDownG5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyDownG5.png; sourceTree = "<group>"; };
+		0155EE67113DFD8300E400F0 /* KeyDownA5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyDownA5.png; sourceTree = "<group>"; };
+		0155EE68113DFD8300E400F0 /* KeyDownB5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyDownB5.png; sourceTree = "<group>"; };
+		0155EE69113DFD8300E400F0 /* KeyUpC5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyUpC5.png; sourceTree = "<group>"; };
+		0155EE6A113DFD8300E400F0 /* KeyUpD5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyUpD5.png; sourceTree = "<group>"; };
+		0155EE6B113DFD8300E400F0 /* KeyUpE5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyUpE5.png; sourceTree = "<group>"; };
+		0155EE6C113DFD8300E400F0 /* KeyUpF5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyUpF5.png; sourceTree = "<group>"; };
+		0155EE6D113DFD8300E400F0 /* KeyUpG5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyUpG5.png; sourceTree = "<group>"; };
+		0155EE6E113DFD8300E400F0 /* KeyUpA5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyUpA5.png; sourceTree = "<group>"; };
+		0155EE6F113DFD8300E400F0 /* KeyUpB5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KeyUpB5.png; sourceTree = "<group>"; };
+		01EEF9D2113C9ED30069CCA0 /* FingerPiano说明文档.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = "FingerPiano说明文档.rtf"; sourceTree = "<group>"; };
+		01EEF9F7113C9F960069CCA0 /* PianoKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PianoKey.h; sourceTree = "<group>"; };
+		01EEF9F8113C9F960069CCA0 /* PianoKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PianoKey.m; sourceTree = "<group>"; };
+		01EEF9FB113CA0280069CCA0 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		01EEFA04113CA7320069CCA0 /* A5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = A5.wav; path = Classes/A5.wav; sourceTree = "<group>"; };
+		01EEFA05113CA7320069CCA0 /* B5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = B5.wav; path = Classes/B5.wav; sourceTree = "<group>"; };
+		01EEFA06113CA7320069CCA0 /* Bb5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Bb5.wav; path = Classes/Bb5.wav; sourceTree = "<group>"; };
+		01EEFA07113CA7320069CCA0 /* Cb5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Cb5.wav; path = Classes/Cb5.wav; sourceTree = "<group>"; };
+		01EEFA08113CA7320069CCA0 /* C5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = C5.wav; path = Classes/C5.wav; sourceTree = "<group>"; };
+		01EEFA09113CA7320069CCA0 /* C6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = C6.wav; path = Classes/C6.wav; sourceTree = "<group>"; };
+		01EEFA0A113CA7320069CCA0 /* Db5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Db5.wav; path = Classes/Db5.wav; sourceTree = "<group>"; };
+		01EEFA0B113CA7320069CCA0 /* D5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = D5.wav; path = Classes/D5.wav; sourceTree = "<group>"; };
+		01EEFA0C113CA7320069CCA0 /* E5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = E5.wav; path = Classes/E5.wav; sourceTree = "<group>"; };
+		01EEFA0D113CA7320069CCA0 /* Fb5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Fb5.wav; path = Classes/Fb5.wav; sourceTree = "<group>"; };
+		01EEFA0E113CA7320069CCA0 /* F5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = F5.wav; path = Classes/F5.wav; sourceTree = "<group>"; };
+		01EEFA0F113CA7320069CCA0 /* Gb5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Gb5.wav; path = Classes/Gb5.wav; sourceTree = "<group>"; };
+		01EEFA10113CA7320069CCA0 /* G5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = G5.wav; path = Classes/G5.wav; sourceTree = "<group>"; };
+		01EEFA4C113CAD0E0069CCA0 /* test.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = test.wav; sourceTree = "<group>"; };
+		01EEFB2E113CDC670069CCA0 /* Keybordview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Keybordview.h; sourceTree = "<group>"; };
+		01EEFB2F113CDC670069CCA0 /* Keybordview.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Keybordview.m; sourceTree = "<group>"; };
+		01EEFD8A113D69C60069CCA0 /* BlackKeyDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BlackKeyDown.png; sourceTree = "<group>"; };
+		01EEFD8B113D69C60069CCA0 /* BlackKeyUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BlackKeyUp.png; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* FingerPiano1_0AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FingerPiano1_0AppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* FingerPiano1_0AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FingerPiano1_0AppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* FingerPiano1.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FingerPiano1.0.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		280E754A0DD40C5E005A515E /* FlipsideView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FlipsideView.xib; sourceTree = "<group>"; };
+		280E754B0DD40C5E005A515E /* MainView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainView.xib; sourceTree = "<group>"; };
+		280E754C0DD40C5E005A515E /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		288765580DF743DE002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		289233A20DB2D0840083E9F9 /* FlipsideView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlipsideView.h; path = Classes/FlipsideView.h; sourceTree = "<group>"; };
+		289233A30DB2D0840083E9F9 /* FlipsideView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FlipsideView.m; path = Classes/FlipsideView.m; sourceTree = "<group>"; };
+		289233A40DB2D0840083E9F9 /* MainView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainView.h; path = Classes/MainView.h; sourceTree = "<group>"; };
+		289233A50DB2D0840083E9F9 /* MainView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainView.m; path = Classes/MainView.m; sourceTree = "<group>"; };
+		289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainViewController.h; path = Classes/MainViewController.h; sourceTree = "<group>"; };
+		289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainViewController.m; path = Classes/MainViewController.m; sourceTree = "<group>"; };
+		289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlipsideViewController.h; path = Classes/FlipsideViewController.h; sourceTree = "<group>"; };
+		289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FlipsideViewController.m; path = Classes/FlipsideViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* FingerPiano1_0_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FingerPiano1_0_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* FingerPiano1_0-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FingerPiano1_0-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765590DF743DE002DB57D /* CoreGraphics.framework in Frameworks */,
+				01EEF9FC113CA0280069CCA0 /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		01EEFA33113CA92A0069CCA0 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				01EEFA08113CA7320069CCA0 /* C5.wav */,
+				01EEFA04113CA7320069CCA0 /* A5.wav */,
+				01EEFA05113CA7320069CCA0 /* B5.wav */,
+				01EEFA06113CA7320069CCA0 /* Bb5.wav */,
+				01EEFA07113CA7320069CCA0 /* Cb5.wav */,
+				01EEFA09113CA7320069CCA0 /* C6.wav */,
+				01EEFA0A113CA7320069CCA0 /* Db5.wav */,
+				01EEFA0B113CA7320069CCA0 /* D5.wav */,
+				01EEFA0C113CA7320069CCA0 /* E5.wav */,
+				01EEFA0D113CA7320069CCA0 /* Fb5.wav */,
+				01EEFA0E113CA7320069CCA0 /* F5.wav */,
+				01EEFA0F113CA7320069CCA0 /* Gb5.wav */,
+				01EEFA10113CA7320069CCA0 /* G5.wav */,
+			);
+			name = Sound;
+			sourceTree = "<group>";
+		};
+		01EEFA34113CA9480069CCA0 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				01EEFD8A113D69C60069CCA0 /* BlackKeyDown.png */,
+				01EEFD8B113D69C60069CCA0 /* BlackKeyUp.png */,
+				0155EE62113DFD8300E400F0 /* KeyDownC5.png */,
+				0155EE63113DFD8300E400F0 /* KeyDownD5.png */,
+				0155EE64113DFD8300E400F0 /* KeyDownE5.png */,
+				0155EE65113DFD8300E400F0 /* KeyDownF5.png */,
+				0155EE66113DFD8300E400F0 /* KeyDownG5.png */,
+				0155EE67113DFD8300E400F0 /* KeyDownA5.png */,
+				0155EE68113DFD8300E400F0 /* KeyDownB5.png */,
+				0155EE69113DFD8300E400F0 /* KeyUpC5.png */,
+				0155EE6A113DFD8300E400F0 /* KeyUpD5.png */,
+				0155EE6B113DFD8300E400F0 /* KeyUpE5.png */,
+				0155EE6C113DFD8300E400F0 /* KeyUpF5.png */,
+				0155EE6D113DFD8300E400F0 /* KeyUpG5.png */,
+				0155EE6E113DFD8300E400F0 /* KeyUpA5.png */,
+				0155EE6F113DFD8300E400F0 /* KeyUpB5.png */,
+			);
+			name = Image;
+			sourceTree = "<group>";
+		};
+		080E96DDFE201D6D7F000001 /* Application Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* FingerPiano1_0AppDelegate.h */,
+				1D3623250D0F684500981E51 /* FingerPiano1_0AppDelegate.m */,
+			);
+			name = "Application Delegate";
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* FingerPiano1.0.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		281C6CD70DB2D82200F60ACC /* Flipside View */ = {
+			isa = PBXGroup;
+			children = (
+				289233A20DB2D0840083E9F9 /* FlipsideView.h */,
+				289233A30DB2D0840083E9F9 /* FlipsideView.m */,
+				289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */,
+				289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */,
+			);
+			name = "Flipside View";
+			sourceTree = "<group>";
+		};
+		289233A00DB2D0730083E9F9 /* Main View */ = {
+			isa = PBXGroup;
+			children = (
+				289233A40DB2D0840083E9F9 /* MainView.h */,
+				289233A50DB2D0840083E9F9 /* MainView.m */,
+				289233A80DB2D0DB0083E9F9 /* MainViewController.h */,
+				289233A90DB2D0DB0083E9F9 /* MainViewController.m */,
+				01EEF9F7113C9F960069CCA0 /* PianoKey.h */,
+				01EEF9F8113C9F960069CCA0 /* PianoKey.m */,
+				01EEFB2E113CDC670069CCA0 /* Keybordview.h */,
+				01EEFB2F113CDC670069CCA0 /* Keybordview.m */,
+			);
+			name = "Main View";
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				01EEF9D2113C9ED30069CCA0 /* FingerPiano说明文档.rtf */,
+				289233A00DB2D0730083E9F9 /* Main View */,
+				281C6CD70DB2D82200F60ACC /* Flipside View */,
+				080E96DDFE201D6D7F000001 /* Application Delegate */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* FingerPiano1_0_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				01EEFA4C113CAD0E0069CCA0 /* test.wav */,
+				01EEFA34113CA9480069CCA0 /* Image */,
+				01EEFA33113CA92A0069CCA0 /* Sound */,
+				280E754A0DD40C5E005A515E /* FlipsideView.xib */,
+				280E754B0DD40C5E005A515E /* MainView.xib */,
+				280E754C0DD40C5E005A515E /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* FingerPiano1_0-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765580DF743DE002DB57D /* CoreGraphics.framework */,
+				01EEF9FB113CA0280069CCA0 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* FingerPiano1.0 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FingerPiano1.0" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FingerPiano1.0;
+			productName = FingerPiano1.0;
+			productReference = 1D6058910D05DD3D006BFB54 /* FingerPiano1.0.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FingerPiano1.0" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* FingerPiano1.0 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				280E754D0DD40C5E005A515E /* FlipsideView.xib in Resources */,
+				280E754E0DD40C5E005A515E /* MainView.xib in Resources */,
+				280E754F0DD40C5E005A515E /* MainWindow.xib in Resources */,
+				01EEF9D3113C9ED30069CCA0 /* FingerPiano说明文档.rtf in Resources */,
+				01EEFA11113CA7320069CCA0 /* A5.wav in Resources */,
+				01EEFA12113CA7320069CCA0 /* B5.wav in Resources */,
+				01EEFA13113CA7320069CCA0 /* Bb5.wav in Resources */,
+				01EEFA14113CA7320069CCA0 /* Cb5.wav in Resources */,
+				01EEFA15113CA7320069CCA0 /* C5.wav in Resources */,
+				01EEFA16113CA7320069CCA0 /* C6.wav in Resources */,
+				01EEFA17113CA7320069CCA0 /* Db5.wav in Resources */,
+				01EEFA18113CA7320069CCA0 /* D5.wav in Resources */,
+				01EEFA19113CA7320069CCA0 /* E5.wav in Resources */,
+				01EEFA1A113CA7320069CCA0 /* Fb5.wav in Resources */,
+				01EEFA1B113CA7320069CCA0 /* F5.wav in Resources */,
+				01EEFA1C113CA7320069CCA0 /* Gb5.wav in Resources */,
+				01EEFA1D113CA7320069CCA0 /* G5.wav in Resources */,
+				01EEFA4D113CAD0E0069CCA0 /* test.wav in Resources */,
+				01EEFD8C113D69C60069CCA0 /* BlackKeyDown.png in Resources */,
+				01EEFD8D113D69C60069CCA0 /* BlackKeyUp.png in Resources */,
+				0155EE70113DFD8300E400F0 /* KeyDownC5.png in Resources */,
+				0155EE71113DFD8300E400F0 /* KeyDownD5.png in Resources */,
+				0155EE72113DFD8300E400F0 /* KeyDownE5.png in Resources */,
+				0155EE73113DFD8300E400F0 /* KeyDownF5.png in Resources */,
+				0155EE74113DFD8300E400F0 /* KeyDownG5.png in Resources */,
+				0155EE75113DFD8300E400F0 /* KeyDownA5.png in Resources */,
+				0155EE76113DFD8300E400F0 /* KeyDownB5.png in Resources */,
+				0155EE77113DFD8300E400F0 /* KeyUpC5.png in Resources */,
+				0155EE78113DFD8300E400F0 /* KeyUpD5.png in Resources */,
+				0155EE79113DFD8300E400F0 /* KeyUpE5.png in Resources */,
+				0155EE7A113DFD8300E400F0 /* KeyUpF5.png in Resources */,
+				0155EE7B113DFD8300E400F0 /* KeyUpG5.png in Resources */,
+				0155EE7C113DFD8300E400F0 /* KeyUpA5.png in Resources */,
+				0155EE7D113DFD8300E400F0 /* KeyUpB5.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* FingerPiano1_0AppDelegate.m in Sources */,
+				289233A60DB2D0840083E9F9 /* FlipsideView.m in Sources */,
+				289233A70DB2D0840083E9F9 /* MainView.m in Sources */,
+				289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */,
+				289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */,
+				01EEF9F9113C9F960069CCA0 /* PianoKey.m in Sources */,
+				01EEFB30113CDC670069CCA0 /* Keybordview.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FingerPiano1_0_Prefix.pch;
+				INFOPLIST_FILE = "FingerPiano1_0-Info.plist";
+				PRODUCT_NAME = FingerPiano1.0;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FingerPiano1_0_Prefix.pch;
+				INFOPLIST_FILE = "FingerPiano1_0-Info.plist";
+				PRODUCT_NAME = FingerPiano1.0;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FingerPiano1.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FingerPiano1.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
